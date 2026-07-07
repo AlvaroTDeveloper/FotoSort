@@ -18,3 +18,4 @@ tiff
 tif
 wmf
 wmz
+nef
